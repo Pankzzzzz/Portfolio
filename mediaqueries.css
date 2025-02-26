@@ -66,13 +66,9 @@ section{
     .about-containers,.contact-info-upper-container,.btn-container 
     {
         flex-wrap: wrap;
-
-
-
     }
     .contact-info-container {
         margin: 0 ;
-
     }
     .contact-info-container p, .nav-links{
       font-size: 1rem;
